@@ -1,6 +1,6 @@
-**Command**: {{command}}
+**Command**: hugemoji, e, emoji
 
-**Usage**: `{{usage}}`
+**Usage**: `hugemoji <emoji>`
 
 
 Get a large image of an emote.

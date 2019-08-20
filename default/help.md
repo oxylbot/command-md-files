@@ -1,6 +1,6 @@
-**Command**: {{command}}
+**Command**: help
 
-**Usage**: `{{usage}}`
+**Usage**: `help [command]`
 
 
 Get a list of commands, or extra information on the usage of a command.

@@ -1,6 +1,6 @@
-**Command**: {{command}}
+**Command**: bird
 
-**Usage**: `{{usage}}`
+**Usage**: `bird`
 
 
 Get a random bird picture, from <https://shibe.online>.

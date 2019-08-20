@@ -1,6 +1,6 @@
-**Command**: {{command}}
+**Command**: ping
 
-**Usage**: `{{usage}}`
+**Usage**: `ping`
 
 
 Test the roundtrip latency of a message. Allows to get an idea of how laggy Discord or Oxyl is at any given moment.

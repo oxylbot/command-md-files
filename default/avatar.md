@@ -1,6 +1,6 @@
-**Command**: {{command}}
+**Command**: avatar
 
-**Usage**: `{{usage}}`
+**Usage**: `avatar [user]`
 
 
 Get an avatar of a user.

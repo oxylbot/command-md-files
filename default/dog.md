@@ -1,6 +1,6 @@
-**Command**: {{command}}
+**Command**: dog
 
-**Usage**: `{{usage}}`
+**Usage**: `dog`
 
 
 Get a random dog picture (or gif), from <https://random.dog>.
